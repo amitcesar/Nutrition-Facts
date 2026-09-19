@@ -1,3 +1,4 @@
+
 # Nutrition Facts (Tabela Nutricional)
 
 Nutrition Facts is a modern Android application designed to help users track nutritional information for healthy recipes. The app provides a detailed breakdown of macronutrients and micronutrients, helping users make informed dietary choices.
@@ -9,6 +10,8 @@ Nutrition Facts is a modern Android application designed to help users track nut
 - **Interactive UI**: Smooth animations using Jetpack Compose, including an interactive dish view and nutrient bars.
 - **Favorites**: Ability to mark recipes as favorites (local mock implementation).
 - **Modern Design**: Built with Material 3 and follow edge-to-edge design principles.
+
+
 
 ## 🛠️ Architecture & Good Practices
 
@@ -22,6 +25,12 @@ The project follows modern Android development standards and **Clean Architectur
 - **Reactive UI**: State management using `MutableStateFlow` and `collectAsStateWithLifecycle`.
 - **Type-Safe Navigation**: Uses the latest **Jetpack Navigation Compose** with Kotlin Serialization for type-safe routing.
 - **Coroutines & Flow**: Handles asynchronous operations and data streams efficiently.
+
+<img width="250" alt="Screenshot_20260919_011755" src="https://github.com/user-attachments/assets/2898bb20-fca0-41f4-9e73-82854a0fa153" />
+
+<img width="250" alt="Screenshot_20260919_043433" src="https://github.com/user-attachments/assets/87f6ffbe-468e-4be5-9085-9b8f46eda789" />
+
+<img width="250"  alt="Screenshot_20260919_011823" src="https://github.com/user-attachments/assets/fd9e6e49-87d0-49f8-9829-f3abc9e6a212" />
 
 ## 📚 Libraries Used
 
